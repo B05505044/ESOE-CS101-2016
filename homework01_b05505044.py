@@ -24,4 +24,8 @@ for n in result:
 
 print(sampleWordList)
 
+<<<<<<< HEAD
  
+=======
+ 
+>>>>>>> refs/remotes/origin/patch-2
